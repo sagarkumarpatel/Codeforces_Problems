@@ -1,0 +1,276 @@
+      #Level 1 Absolute Beginner — Codeforces 800
+
+Start with these problems to become comfortable with the Codeforces style.
+Basic Math and Implementation
+
+| Problem                | Codeforces ID |
+| ---------------------- | ------------: |
+| Watermelon             |        **4A** |
+| Way Too Long Words     |       **71A** |
+| Team                   |      **231A** |
+| Domino piling          |       **50A** |
+| Next Round             |      **158A** |
+| Bit++                  |      **282A** |
+| Beautiful Matrix       |      **263A** |
+| Petya and Strings      |      **112A** |
+| Helpful Maths          |      **339A** |
+| Word Capitalization    |      **281A** |
+| Boy or Girl            |      **236A** |
+| Bear and Big Brother   |      **791A** |
+| Elephant               |      **617A** |
+| Football               |       **96A** |
+| Tram                   |      **116A** |
+| Stones on the Table    |      **266A** |
+| Nearly Lucky Number    |      **110A** |
+| Queue at the School    |      **450A** |
+| Panoramix's Prediction |       **80A** |
+| Translation            |       **41A** |
+
+
+      #Level 2  Beginner — 800–900
+
+These problems require slightly better observation and implementation.
+Arrays and Strings
+
+| Problem                              | Codeforces ID |
+| ------------------------------------ | ------------: |
+| Anton and Danik                      |      **734A** |
+| Vanya and Fence                      |      **677A** |
+| In Search of an Easy Problem         |     **1030A** |
+| I Wanna Be the Guy                   |      **469A** |
+| Magnets                              |      **344A** |
+| Dubstep                              |      **208A** |
+| Amusing Joke                         |      **141A** |
+| Pangram                              |      **520A** |
+| HQ9+                                 |      **133A** |
+| Registration System                  |        **4C** |
+| Is your horseshoe on the other hoof? |      **228A** |
+| Soft Drinking                        |      **151A** |
+| Drinks                               |      **200B** |
+| Gravity Flip                         |      **405A** |
+| Word                                 |       **59A** |
+| Lucky Division                       |      **145A** |
+| George and Accommodation             |      **467A** |
+| Sereja and Bottles                   |      **315A** |
+| Arrival of the General               |      **144A** |
+| Presents                             |      **136A** |
+
+     
+      #Level 3 Beginner+ — 900–1000
+Now start solving problems involving greedy thinking, frequency counting, and basic simulation.
+Greedy and Simulation
+
+| Problem               | Codeforces ID |
+| --------------------- | ------------: |
+| Helpful Maths         |      **339A** |
+| Sort the Subarray     |     **1821B** |
+| Array with Odd Sum    |     **1363A** |
+| Minimum Difficulty    |      **496A** |
+| Twins                 |      **160A** |
+| Games                 |      **268A** |
+| Red and Blue Beans    |     **1519A** |
+| Divisibility Problem  |     **1328A** |
+| Sum of Round Numbers  |     **1352A** |
+| Phoenix and Balance   |     **1348A** |
+| Odd Divisor           |     **1475A** |
+| Array and Peaks       |     **1537B** |
+| Difference Operations |     **1701A** |
+| Make it Increasing    |     **1736A** |
+| United We Stand       |     **1859A** |
+
+
+
+       #Level 4 Easy — 1000–1100
+At this point, you should start learning common problem-solving patterns.
+Prefix Sum
+
+| Problem                 | Codeforces ID |
+| ----------------------- | ------------: |
+| Maximum Increase        |      **702A** |
+| Maximum in Table        |      **509A** |
+| Difference Operations   |     **1701B** |
+| Sum of Cubes            |     **1490A** |
+| Array Cloning Technique |     **1698B** |
+| Books                   |      **279B** |
+| Subarray Sorting        |     **1311A** |
+
+
+Two Pointers / Sliding Window
+| Problem                   | Codeforces ID |
+| ------------------------- | ------------: |
+| Books                     |      **279B** |
+| Array and Operations      |      **486A** |
+| Restoring Three Numbers   |     **1154A** |
+| Longest Divisors Interval |     **1062A** |
+| Two-gram                  |      **977B** |
+
+Binary Search
+| Problem                    | Codeforces ID |
+| -------------------------- | ------------: |
+| Search for Pretty Integers |      **872A** |
+| Find The Array             |     **1538B** |
+| Vanya and Food Processor   |      **677B** |
+| Very Easy Task             |      **823A** |
+| Interesting Drink          |      **706B** |
+
+
+
+Level 5: 1100–1200
+Now begin serious competitive programming patterns.
+Greedy
+
+| Problem                 | Codeforces ID |
+| ----------------------- | ------------: |
+| Remove Smallest         |     **1399B** |
+| Array and Operations    |     **1661A** |
+| Beru-taxi               |      **706A** |
+| Fence                   |      **363B** |
+| Cheap Travel            |      **466A** |
+| Candies and Two Sisters |     **1335A** |
+| Yet Another Towel       |     **1593A** |
+| Make It Increasing      |     **1157B** |
+
+
+Maps and Frequency
+| Problem             | Codeforces ID |
+| ------------------- | ------------: |
+| Registration System |        **4C** |
+| Amr and Music       |      **507B** |
+| Letter              |       **43A** |
+| Anagram             |      **143A** |
+| Bookshelves         |      **981A** |
+| Common Divisor      |     **1025B** |
+
+
+Level 6: 1200–1300
+This is where you begin to develop real competitive programming intuition.
+Binary Search
+
+| Problem                 | Codeforces ID |
+| ----------------------- | ------------: |
+| Interesting Drink       |      **706B** |
+| Very Easy Task          |      **823B** |
+| Packing Rectangles      |     **1311B** |
+| Maximum Median          |     **1201C** |
+| K-th Not Divisible by n |     **1352C** |
+
+DFS / BFS
+| Problem               | Codeforces ID |
+| --------------------- | ------------: |
+| Connected Components? |      **920E** |
+| Counting Rooms        |      **115A** |
+| Phoenix and Gold      |     **1348B** |
+| Fox And Names         |      **510C** |
+| Dungeon               |      **377A** |
+
+Basic DP
+| Problem                      | Codeforces ID |
+| ---------------------------- | ------------: |
+| Domino and Tromino Tiling    |       **50C** |
+| Array                        |      **455A** |
+| Fence                        |      **484A** |
+| Maximum Sum                  |      **742B** |
+| Yet Another Subarray Problem |     **1197D** |
+
+
+Level 7: Intermediate — 1300–1400
+| Problem                      | Codeforces ID |
+| ---------------------------- | ------------: |
+| Maximum Subarray             |     **1197C** |
+| Array Splitting              |     **1197B** |
+| Two Divisors                 |     **1366A** |
+| Phoenix and Gold             |     **1348C** |
+| Make It Increasing           |     **1157B** |
+| Yet Another Subarray Problem |     **1197D** |
+| Bookshelves                  |      **981C** |
+| Maximum Median               |     **1201C** |
+| Divisor Subtraction          |     **1076B** |
+| Array Walk                   |     **1389B** |
+| Subsequence                  |      **597C** |
+| The Least Round Way          |      **837D** |
+| Number of Ways               |      **466C** |
+
+
+Level 8: Intermediate — 1400–1600
+DP
+| Problem                          | Codeforces ID |
+| -------------------------------- | ------------: |
+| Array                            |      **455A** |
+| Vacation                         |      **699C** |
+| Longest Regular Bracket Sequence |        **5C** |
+| Little Girl and Problem on Trees |      **276C** |
+| Maximum Subarray                 |     **1197D** |
+| Common Divisor Graph             |     **1025B** |
+| Multiple of 2019                 |     **1005C** |
+| Strange Calculation and Cats     |     **1167B** |
+
+
+Graphs
+| Problem                   | Codeforces ID |
+| ------------------------- | ------------: |
+| Dijkstra?                 |       **20C** |
+| Shortest Path of the King |      **242C** |
+| Roads and Railways        |      **999E** |
+| Fox And Names             |      **510C** |
+| Labyrinth                 |     **1063B** |
+| Omkar and Heavenly Tree   |     **1583A** |
+| Edgy Trees                |     **1139C** |
+
+Greedy
+| Problem                 | Codeforces ID |
+| ----------------------- | ------------: |
+| Activity Selection      |      **846B** |
+| Bear and Tower of Cubes |      **679A** |
+| Kuriyama Mirai's Stones |      **433B** |
+| Array and Operations    |     **1661B** |
+| Save the Nature         |     **1249D** |
+
+
+Level 9: Advanced — 1600–1800
+After completing the previous levels, move to these.
+Advanced DP
+
+| Problem                      | Codeforces ID |
+| ---------------------------- | ------------: |
+| 0-1 Knapsack variations      |       Various |
+| Bookshelves                  |      **981D** |
+| Yet Another Subarray Problem |     **1197D** |
+| Ciel and Gondolas            |      **321E** |
+| Little Elephant and Board    |      **220C** |
+| Sweets for Everyone          |     **1195C** |
+
+Advanced Graphs
+| Problem                                | Codeforces ID |
+| -------------------------------------- | ------------: |
+| Dijkstra?                              |       **20C** |
+| Jzzhu and Cities                       |      **449B** |
+| Shortest Path                          |      **545E** |
+| Strongly Connected Components problems |       Various |
+| Tree Diameter problems                 |       Various |
+| Centroid Decomposition problems        |       Various |
+
+Advanced Data Structures
+Learn:
+Segment Tree
+Fenwick Tree
+DSU
+Sparse Table
+Binary Lifting
+LCA
+Trie
+
+| Problem                          | Codeforces ID |
+| -------------------------------- | ------------: |
+| Little Girl and Problem on Trees |      **276C** |
+| Xenia and Bit Operations         |      **339D** |
+| Number of Ways                   |      **466C** |
+| Ant Colony                       |      **474F** |
+| Yet Another Subarray Problem     |     **1197D** |
+
+
+
+
+
+
+
+
