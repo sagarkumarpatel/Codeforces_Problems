@@ -11,9 +11,9 @@ void solve() {
     for(int i=0;i<n;i++){
         int height;
         cin>>height;
-        if(height>h){
+        if(height>h){ //if the height is greater than the given height then width increase by 2
           count+=2;
-        }else{
+        }else{  //else the with increase by 1
             count++;
         }
     }
