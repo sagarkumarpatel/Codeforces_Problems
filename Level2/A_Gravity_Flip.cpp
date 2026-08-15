@@ -1,4 +1,7 @@
 // File: A_Gravity_Flip.cpp
+//this is the easy pessy problem
+
+//note:- take a vector of size n and take input of n elements and then sort the vector and then print the vector
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
