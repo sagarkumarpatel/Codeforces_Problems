@@ -1,4 +1,6 @@
 // File: A_George_and_Accommodation.cpp
+//approach:- George and Alex only able to sit together 
+// when there is two place is remaining so the p must be less than q-1
 #include <bits/stdc++.h>
 using namespace std;
 #define int long long
