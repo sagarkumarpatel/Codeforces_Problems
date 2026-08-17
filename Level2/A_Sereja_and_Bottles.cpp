@@ -18,7 +18,7 @@ void solve() {
         bool can_be_opened = false;
         for (int j = 0; j < n; ++j) {
             // Check if another bottle j can open bottle i
-            if (i != j && bottles[j].second == bottles[i].first) {
+            if (i != j && bottles[j].second == bottles[i].first) { //if it will open
                 can_be_opened = true;
                 break;
             }
