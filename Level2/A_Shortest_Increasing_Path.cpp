@@ -19,7 +19,7 @@ void solve() {
         cout << -1 << "\n";
     }
 }
-
+//main function
 int main() {
     // Optimize standard I/O operations for performance
     ios_base::sync_with_stdio(false);
