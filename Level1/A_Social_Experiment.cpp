@@ -6,7 +6,6 @@ void solve() {
     int n;
     cin >> n;
     
-    // If n is 2 or 3, we can't split them because we can't form a team of 1.
     if (n == 2 || n == 3) {
         cout << n << "\n";
     } 
